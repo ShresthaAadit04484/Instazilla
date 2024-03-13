@@ -1,13 +1,13 @@
 Initial Setup: <br>
--> npm create vite@latest ./ 
-The above command is used to install the latest vite in the current folder.
+-> npm create vite@latest ./ <br>
+The above command is used to install the latest vite in the current folder.<br>
 
-Then choose the following:
--> React
--> TypeScript
-Run the following:
--> npm install
--> npm run dev
+Then choose the following:<br>
+-> React<br>
+-> TypeScript<br>
+Run the following:<br>
+-> npm install<br>
+-> npm run dev<br>
 
 *NOTE: src/App.tsx file will be the primary router component.
 
