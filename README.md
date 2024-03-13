@@ -9,4 +9,7 @@ Run the following:
 -> npm install
 -> npm run dev
 
+*NOTE: src/App.tsx file will be the primary router component.
 
+Below are the notes that I used for my reference:
+- rafce => shortcut to create reactArrowFunctionExportComponent
