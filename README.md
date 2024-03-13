@@ -1,4 +1,4 @@
-Initial Setup:
+Initial Setup: <br>
 -> npm create vite@latest ./ 
 The above command is used to install the latest vite in the current folder.
 
